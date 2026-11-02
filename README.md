@@ -1,4 +1,4 @@
-# 3pi+ Line Following: An 80-Minute Outreach Activity
+# 3pi+ Line Following: Outreach Activity
 
 A hands-on session where students meet a Pololu 3pi+ robot, set up the Arduino IDE from scratch, run the **existing line-following example** that ships with the Pololu library, and then tune and tweak it to make their robot faster, smoother and smarter.
 
