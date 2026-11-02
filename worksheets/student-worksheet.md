@@ -1,10 +1,10 @@
 # Line Follower Worksheet
 
-**Team name:** ______________________  **Robot number:** ________  **Edition (Turtle / Standard / Hyper):** ____________
+**Team name:** ______________________  **Robot number:** ________ 
 
 ## Part 1: Setup checklist
 - [ ] IDE installed  - [ ] Pololu board added  - [ ] Library installed
-- [ ] Board = Pololu A-Star 32U4  - [ ] Port chosen  - [ ] Hello test worked
+- [ ] Board = Pololu A-Star 32U4  - [ ] Port chosen  -
 
 ## Part 2: Sense, Think, Act
 Label each part of the robot as SENSE, THINK or ACT:
