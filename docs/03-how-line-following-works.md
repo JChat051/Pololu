@@ -21,7 +21,7 @@ Underneath the 3pi+ are **5 reflectance sensors**. Each one shines infrared ligh
 
 Different rooms, tables and tapes reflect different amounts of light. So at the start, the example makes the robot **sweep over the line** while it records the darkest and lightest readings each sensor sees. After that, "black" always means ~1000 and "white" ~0, whatever the room.
 
-> **Try this:** What happens if you calibrate on a table and then drive on a different surface? (Great question to test on the day.)
+> **Try this:** What happens if you calibrate on a table and then drive on a different surface? (Great question to test.)
 
 ## Step 3: Turning five readings into one position
 
