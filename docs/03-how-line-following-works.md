@@ -1,7 +1,5 @@
 # 3. How Line Following Works
 
-**Time in session: 10 minutes** (talk + demo)
-
 ## Step 1: Seeing the line
 
 Underneath the 3pi+ are **5 reflectance sensors**. Each one shines infrared light at the floor and measures how much comes back.
