@@ -1,7 +1,5 @@
 # 4. Challenges
 
-**Time in session: 35 minutes of hands-on work + 10 minutes showcase**
-
 You are going to **modify the existing line-following example**. You do not need to write a program from scratch.
 
 ## Golden rules
@@ -15,7 +13,7 @@ You are going to **modify the existing line-following example**. You do not need
 
 ---
 
-## Challenge 0: Baseline (all teams, ~8 min)
+## Challenge 0: Baseline
 
 1. Place the robot on **Track A** (the oval) with the line under the middle sensors.
 2. Upload the **unchanged** example.
@@ -24,7 +22,7 @@ You are going to **modify the existing line-following example**. You do not need
 
 **Questions:** Did it stay on? Was it smooth or wobbly? What does the display show?
 
-## Challenge 1: Speed (~8 min)
+## Challenge 1: Speed 
 
 Find the line in the sketch that sets the **maximum speed** (look near the top for something like `maxSpeed`).
 
@@ -39,7 +37,7 @@ Find the line in the sketch that sets the **maximum speed** (look near the top f
 
 > Hint: motors are limited to a maximum value (the library accepts a maximum of about 400). Don't exceed what the example allows.
 
-## Challenge 2: Smooth operator (~10 min)
+## Challenge 2: Smooth operator 
 
 Find the line that calculates how much to **steer** (look for `error` and a number it is divided or multiplied by, and a second term using the **previous** error, often named `lastError`).
 
