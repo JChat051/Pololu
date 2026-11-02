@@ -24,9 +24,9 @@ The Pololu 3pi+ is a small, fast, line-following robot that packs all three into
 | **Buttons A, B, C** | Top of the board | Let you give the robot commands | INPUT |
 | **Batteries** | Underneath | Four AAA cells power everything | POWER |
 
-## Which edition do I have?
+## Which operating modes do I have?
 
-The 3pi+ comes in editions that differ only by **motors**:
+The 3pi+ comes in built-in with different operating modes:
 
 | Edition | Motors | Character |
 |---|---|---|
@@ -34,7 +34,7 @@ The 3pi+ comes in editions that differ only by **motors**:
 | **Standard** | 30:1 gearing | Balanced |
 | Hyper | 15:1 gearing | Fast, twitchy |
 
-The Pololu example sketch has a section where you pick your edition so the speeds are set sensibly. **Check which one you have** (it is on the packaging or the motor label) and write it on your worksheet.
+The Pololu example sketch has a section where you pick your operating mode so the speeds are set sensibly. 
 
 ## Differential steering in one picture
 
@@ -48,7 +48,7 @@ There is no steering wheel. A line follower steers entirely by making one motor 
 
 ## Turning it on and staying safe
 
-- Use the **power button** to switch on, and make sure the batteries are fresh. Low batteries cause strange behaviour (see troubleshooting).
+- Use the **power button** to switch on, and make sure the batteries are fresh. Low batteries cause strange behaviour.
 - Keep robots away from table edges. Always have a hand ready to catch one.
 - Do not touch the sensor underside with fingers (grease affects readings).
 
