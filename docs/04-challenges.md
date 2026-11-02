@@ -1,6 +1,9 @@
 # 4. Challenges
 
 You are going to **modify the existing line-following example**. You do not need to write a program from scratch.
+## Known issues in the example
+
+1. **Turtle vs Hyper** Start with working on Turtle or Standard mode. Pololu drives backwards in the Hyper mode. You are welcome to fix these issues but these are not the target for today. In the example turtle drives the fastest. Start with the line following code and then when you understand the code behaviour move towards the LineFollowerPID example.
 
 ## Golden rules
 
