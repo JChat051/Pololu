@@ -24,8 +24,6 @@ The Pololu 3pi+ is a small, fast, line-following robot that packs all three into
 | **Buttons A, B, C** | Top of the board | Let you give the robot commands | INPUT |
 | **Batteries** | Underneath | Four AAA cells power everything | POWER |
 
-> Facilitator: hold up a bare 3pi+ and ask the group to point out the sense / think / act parts before they read this table.
-
 ## Which edition do I have?
 
 The 3pi+ comes in editions that differ only by **motors**:
