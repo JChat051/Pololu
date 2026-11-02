@@ -52,7 +52,7 @@ Change **one** number at a time:
 
 **Goal:** the smoothest, fastest run you can do at your chosen speed. Draw a quick sketch of the path your robot took (wobbly, or smooth?).
 
-## Challenge 3: Make it talk (~7 min)
+## Challenge 3: Make it talk
 
 Give your robot personality using what you learned from the Hello sketch. Pick one:
 
@@ -62,13 +62,13 @@ Give your robot personality using what you learned from the Hello sketch. Pick o
 
 See [`snippets` below](#snippets) for hints. Look at the existing example to see how it already uses the display and buzzer, and copy the style.
 
-## Challenge 4 (stretch): The S-bend (~10 min)
+## Challenge 4 (stretch): The S-bend 
 
 Move to **Track B**, which has an S-bend and a sharper curve. Your Challenge 2 tuning may not work here. Retune and record what changed.
 
 **Think:** Why might a robot that is great on an oval struggle on a tight curve?
 
-## Challenge 5: Final showcase race (10 min, whole group)
+## Challenge 5: Final showcase race
 
 Rules:
 - Each team gets **two timed attempts** on **Track B**.
