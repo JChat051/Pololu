@@ -1,7 +1,5 @@
 # 1. Meet the Robot
 
-**Time in session: 10 minutes**
-
 Every robot, from a vacuum cleaner to a Mars rover, does the same three things:
 
 ```
