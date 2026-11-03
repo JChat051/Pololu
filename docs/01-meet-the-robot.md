@@ -28,11 +28,11 @@ The Pololu 3pi+ is a small, fast, line-following robot that packs all three into
 
 The 3pi+ comes in built-in with different operating modes:
 
-| Edition | Motors | Character |
+| Edition | Motors Speed | Character |
 |---|---|---|
-| Turtle | 75:1 gearing | Slow, strong, very controllable |
-| **Standard** | 30:1 gearing | Balanced |
-| Hyper | 15:1 gearing | Fast, twitchy |
+| Turtle | Slow | Strong, very controllable |
+| **Standard** | Medium | Balanced |
+| Hyper | Fast | Twitchy |
 
 The Pololu example sketch has a section where you pick your operating mode so the speeds are set sensibly. 
 
