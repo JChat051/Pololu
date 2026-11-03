@@ -64,6 +64,7 @@ If the upload fails, see [troubleshooting](../facilitator/troubleshooting.md).
 - [ ] Pololu3piPlus32U4 library installed
 - [ ] Board set to **Pololu A-Star 32U4**
 - [ ] Port selected
+- [ ] Try out File->Examples->Pololu3piPlus32U4->LineFollowerSimple
 
 ## Setup for later 
 
